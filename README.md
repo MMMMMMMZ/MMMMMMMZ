@@ -2,7 +2,7 @@
 - 👀 I’m interested in The art of Programming
 - 🌱 I’m currently learning IOS Dev, game Dev and Web Dev
 
-##  BTW School is causing me not to focus on coding.
+## School is causing me not to focus on coding During its time
 
 <!---
 MMMMMMMZ/MMMMMMMZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
