@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MMMMMMMZ
 - 👀 I’m interested in The art of Programming
-- 🌱 I’m currently learning IOS Dev, game Dev and Web Dev
+- 🌱 I’m currently learning game Dev , Web Dev and Front-End Dev
 
-## School is causing me not to focus on coding During its time
 
+I am learning on codecademy [My profile](https://www.codecademy.com/profiles/MMOOAAZZ)
 <!---
 MMMMMMMZ/MMMMMMMZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
